@@ -1,23 +1,23 @@
 body{
     font-size: 17px;
-    background-color: black;
+    background-color: #1F1E33;
     color: white;
 }
-h1#title,a#about,a#repo,div#About\ Me h2,div#About\ Me p,div#Media h2,div#Media p,div#Media a{
+h1#title,a#about,a#repo,div#About\ Me h2,div#About\ Me p,div#Media h2,div#Media p,div#Media h3,div#Media a,div#color a{
     display: flex;
     justify-content: center;
 }
 a{
     font-size: 20px;
 }
-div#About\ Me,div#Menu\&Title,div#Media{
-    background-color: black;
-    width: 650px;
-    height: 150px;
+div#About\ Me,div#Menu\&Title,div#Media,div#color{
+    background-color: #1F1E33;
+    width: 600px;
+    height: 300px;
     margin: 0 auto 0;
 }
 div#Repo,div#part1,div#part2,div#part3{
-    background-color: black;
+    background-color: #1F1E33;
     width: 650px;
 }
 div#Repo h1,div#Repo a,div#part1 h2,div#part1 p,div#part1 a,div#part1 h3,div#part2 p,div#part2 a,div#part2 h3,div#part3 p,div#part3 a,div#part3 h3{
@@ -25,7 +25,7 @@ div#Repo h1,div#Repo a,div#part1 h2,div#part1 p,div#part1 a,div#part1 h3,div#par
     justify-content: center;
 }
 div#Repo,div#part1,div#part2,div#part3{
-    background-color: black;
+    background-color: #1F1E33;
     width: 650px;
     margin: 0 auto;
 }
