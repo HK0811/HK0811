@@ -1,5 +1,12 @@
+@font-face{
+    font-family: 'JetBrains Mono';
+    src: url("JetBrainsMono-Regular.ttf");
+    font-style: normal;
+}
+
 body{
     font-size: 17px;
+    font-family: "JetBrains Mono";
     background-color: #1F1E33;
     color: white;
 }
@@ -9,6 +16,7 @@ h1#title,a#about,a#repo,div#About\ Me h2,div#About\ Me p,div#Media h2,div#Media 
 }
 a{
     font-size: 20px;
+    font-family: "JetBrains Mono";
 }
 div#About\ Me,div#Menu\&Title,div#Media,div#color{
     background-color: #1F1E33;
