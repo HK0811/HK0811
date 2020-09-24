@@ -24,16 +24,13 @@ div#About\ Me,div#Menu\&Title,div#Media,div#color{
     height: 400px;
     margin: 0 auto 0;
 }
-div#Repo,div#part1,div#part2,div#part3, div#part4{
-    background-color: #1F1E33;
-    width: 650px;
-}
-div#Repo h1,div#Repo a,div#part1 h2,div#part1 p,div#part1 a,div#part1 h3,div#part2 p,div#part2 a,div#part2 h3,div#part3 p,div#part3 a,div#part3 h3, div#part4{
+div#Repo *,div#part1 *,div#part2 *,div#part3 *,div#part4 *{
     display: flex;
     justify-content: center;
 }
 div#Repo,div#part1,div#part2,div#part3, div#part4{
     background-color: #1F1E33;
-    width: 650px;
+    width: 750px;
+    height: 200px;
     margin: 0 auto;
 }
